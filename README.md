@@ -6,7 +6,6 @@ Auto clicker for Honkai: Star Rail because i'm too lazy to press space and choos
 
 **Important:**
 
-- sometimes HSR won't continue the dialog when you press space. In that case, you have to click the mouse manually to continue.
 - run the program as an administrator.
 
 ### Features
